@@ -22,7 +22,7 @@ Data Engineer, assisting enterprises by supporting data-driven decision-making.
 EMAIL = "aaamendoza@gmail.com"
 SOCIAL_MEDIA = {
     # "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
+    "LinkedIn": "https://linkedin.com/in/AlejandroMendozaGzz"
     # "GitHub": "https://github.com",
     # "Twitter": "https://twitter.com",
 }
