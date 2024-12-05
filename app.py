@@ -102,6 +102,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
+- ✔️ Programming: Streamlit, Access Login and SignUp (Streamlit-Authenticator), Plotly Graps (Bar, Line, Pie, Sunburst) Combine filters in a Streamlit app (checkbox, sliders, multiselects with expander) to dynamically generate the content of a graph or table (dataframe or AG Table). 
 - ✔️ Programming: Python (Pandas, AG Grid), SQL, Powershell
 - ✔️ Data Visulization: Plotly, BusinessObjects, PowerBi
 - ✔️ Modeling: Snowflake Cortex Function for ML, Linear regression
